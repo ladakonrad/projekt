@@ -1,0 +1,37 @@
+@media all and (max-width: 1200px) {
+    
+}
+
+@media all and (max-width: 922x) {
+    
+}
+
+@media all and (max-width: 768px) {
+    .main-nav ul {
+        display: none;
+    }
+    
+    .main-nav {
+        display: block;
+        height: auto;
+        padding: 10px 0;
+    }
+    
+    .main-nav label {
+        display: block;
+        text-align: right;
+        padding: 10px;
+        color: #fff;
+    }
+    
+    .main-nav #menu:checked + ul{
+        display: block;
+    }
+
+    .galeria a {
+    flex-basis: 100%;
+
+
+@media all and (max-width: 480px) {
+    
+}
